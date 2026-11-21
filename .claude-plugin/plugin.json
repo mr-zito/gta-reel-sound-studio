@@ -1,0 +1,9 @@
+{
+  "name": "gta-reel-sound-studio",
+  "version": "1.0.0",
+  "description": "Sound-design GTA 6 and other gameplay clips into viral Reels/TikToks/Shorts with a bundled 263-sound library (meme sounds + earshot foley): synced to the hit, mixed to -14 LUFS, QA-checked.",
+  "author": { "name": "mr-zito" },
+  "homepage": "https://github.com/mr-zito/gta-reel-sound-studio",
+  "repository": "https://github.com/mr-zito/gta-reel-sound-studio",
+  "keywords": ["video-editing", "sound-effects", "meme", "gta", "reels", "tiktok", "shorts", "ffmpeg"]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "gta-reel-sound-studio",
+  "description": "GTA Reel Sound Studio for Claude Code: the skill and its sound library.",
+  "owner": { "name": "mr-zito", "url": "https://github.com/mr-zito" },
+  "plugins": [
+    {
+      "name": "gta-reel-sound-studio",
+      "source": "./",
+      "description": "Sound-design GTA 6 and other gameplay clips into viral Reels/TikToks/Shorts with a bundled 263-sound library."
+    }
+  ]
+}
